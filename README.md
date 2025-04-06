@@ -1,21 +1,36 @@
-# 💫 About Me:
-🔭 Building relationships with industry leaders to expand my network.<br>👯 Looking for collaborative opportunities on innovative projects.<br>💼 Seeking a challenging role in data science to drive business growth.<br>🌱 Staying ahead in data science and machine learning trends.<br>⚡ Always eager to learn and develop new skills.<br>Let's connect and collaborate! 🚀
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> </h1>
 
+<p>
+  I'm <b>Ram Bawankule,</b> Data Analyst at EY from 
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="15"/> <b>India</b>, currently exploring opportunities around the world 🌍<br/>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rambawankule) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rambawankule) 
+<h2> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RamBawankule&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RamBawankule&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RamBawankule&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🚀 **Data Analyst at EY** | Turning raw data into strategic insights  
+- 💡 **ML Enthusiast** | Building & exploring AI-driven solutions  
+- 🌱 **Continuous Learner** | Always leveling up in Data, Automation & Prompt Engineering  
+- 🤝 **Open to Collaborations** on impactful, innovative projects  
+- 🏆 **Mission** | Use data & AI for real-world change — every day is Day 1!
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RamBawankule&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h2>📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<p align="left"> <a href="https://www.linkedin.com/in/rambawankule/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"> <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="24" width="24" alt="LinkedIn Profile"/>
+  </a>
+  &nbsp;&nbsp; <a href="https://x.com/rambawankule7" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/FFFFFF">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/000000">
+      <img src="https://cdn.simpleicons.org/x/000000" height="24" width="24" alt="X Profile"/>
+    </picture>
+  </a> &nbsp;&nbsp; <a href="mailto:rambawankule25@gmail.com" style="text-decoration:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="24" width="24" alt="Send Email"/>
+  </a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=RamBawankule&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2>  </h2>
 
+<p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Waving Groot saying hi" style="vertical-align: middle;">&nbsp; <em>I love connecting with different people! If you want to say <b>hi</b>, I'd be happy to get to know you better.</em> 😊
+</p>
 
+ 
