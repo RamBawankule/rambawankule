@@ -3,6 +3,13 @@
 I’m a **Data Analyst @ EY** from **India**, passionate about turning raw data into strategic insights and building ML‑driven solutions.  
 Currently exploring opportunities and collaborations around the world. 🌍
 
+<h2> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+
+- 🚀 **Data Analyst at EY** | Turning raw data into strategic insights 
+- 💡 **ML Enthusiast** | Building & exploring AI-driven solutions 
+- 🌱 **Continuous Learner** | Always leveling up in Data, Automation & Prompt Engineering 
+- 🤝 **Open to Collaborations** on impactful, innovative projects 
+- 🏆 **Mission** | Use data & AI for real-world change — every day is Day 1!
 
 
 <h2> ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
@@ -12,15 +19,6 @@ Currently exploring opportunities and collaborations around the world. 🌍
 | Python, R, SQL     | scikit‑learn, TensorFlow   | Roboflow, Git       |
 | Excel, Power BI    | PyTorch, XGBoost           | Docker, BigQuery    |
 
-
-
-<h2> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-
-- 🚀 **Data Analyst at EY** | Turning raw data into strategic insights 
-- 💡 **ML Enthusiast** | Building & exploring AI-driven solutions 
-- 🌱 **Continuous Learner** | Always leveling up in Data, Automation & Prompt Engineering 
-- 🤝 **Open to Collaborations** on impactful, innovative projects 
-- 🏆 **Mission** | Use data & AI for real-world change — every day is Day 1!
 
  
 <h2>📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
