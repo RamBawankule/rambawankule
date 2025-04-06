@@ -1,10 +1,9 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Blob Sunglasses Emoji"/> Hey! Nice to see you <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" alt="Kyubey Gif"/></h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Blob Sunglasses Emoji"/> 𝓗𝓮𝔂! 𝓝𝓲𝓬𝓮 𝓽𝓸 𝓼𝓮𝓮 𝔂𝓸𝓾 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" alt="Kyubey Gif"/></h1>
 
 I’m a **Data Analyst @ EY** from **India**, passionate about turning raw data into strategic insights and building ML‑driven solutions.  
 Currently exploring opportunities and collaborations around the world. 🌍
 
 
----
 
 <h2> ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 
@@ -13,7 +12,7 @@ Currently exploring opportunities and collaborations around the world. 🌍
 | Python, R, SQL     | scikit‑learn, TensorFlow   | Roboflow, Git       |
 | Excel, Power BI    | PyTorch, XGBoost           | Docker, BigQuery    |
 
----
+
 
 <h2> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
 
@@ -22,8 +21,8 @@ Currently exploring opportunities and collaborations around the world. 🌍
 - 🌱 **Continuous Learner** | Always leveling up in Data, Automation & Prompt Engineering 
 - 🤝 **Open to Collaborations** on impactful, innovative projects 
 - 🏆 **Mission** | Use data & AI for real-world change — every day is Day 1!
----
 
+ 
 <h2>📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/rambawankule/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="24" width="24" /> </a> &nbsp;&nbsp; <a href="https://x.com/rambawankule7" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
