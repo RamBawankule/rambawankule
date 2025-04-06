@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Blob Sunglasses Emoji"/> 𝓗𝓮𝔂! 𝓝𝓲𝓬𝓮 𝓽𝓸 𝓼𝓮𝓮 𝔂𝓸𝓾 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" alt="Kyubey Gif"/></h1>
+<h1><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNvczBtNDU1Yzh5azhiMjQ5ZGVpYW8zZndxenBpejFpdmJqaTZ4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="50" alt="Blob Sunglasses Emoji"/> 𝓗𝓮𝔂! 𝓝𝓲𝓬𝓮 𝓽𝓸 𝓼𝓮𝓮 𝔂𝓸𝓾 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" alt="Kyubey Gif"/></h1>
 
 I’m a **Data Analyst @ EY** from **India**, passionate about turning raw data into strategic insights and building ML‑driven solutions.  
 Currently exploring opportunities and collaborations around the world. 🌍
