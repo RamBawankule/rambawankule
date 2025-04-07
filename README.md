@@ -1,42 +1,44 @@
-<h1><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNvczBtNDU1Yzh5azhiMjQ5ZGVpYW8zZndxenBpejFpdmJqaTZ4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="50" alt="Blob Sunglasses Emoji"/> 𝓗𝓮𝔂! 𝓝𝓲𝓬𝓮 𝓽𝓸 𝓼𝓮𝓮 𝔂𝓸𝓾 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" alt="Kyubey Gif"/></h1>
+# Hi, I’m **Ram Bawankule**
 
-I’m a **Data Analyst @ EY** from **India**, passionate about turning raw data into strategic insights and building ML‑driven solutions.  
-Currently exploring opportunities and collaborations around the world. 🌍
-
-<h2> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-
-- 🚀 **Data Analyst at EY** | Turning raw data into strategic insights 
-- 💡 **ML Enthusiast** | Building & exploring AI-driven solutions 
-- 🌱 **Continuous Learner** | Always leveling up in Data, Automation & Prompt Engineering 
-- 🤝 **Open to Collaborations** on impactful, innovative projects 
-- 🏆 **Mission** | Use data & AI for real-world change — every day is Day 1!
-
-
-<h2> ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
-
-| Data & Analytics   | Machine Learning           | Automation & Tools    |
-|--------------------|----------------------------|-----------------------|
-| Python, R, SQL     | scikit‑learn, TensorFlow   | Roboflow, Git       |
-| Excel, Power BI    | PyTorch, XGBoost           | Docker, BigQuery    |
-
-
+**Data Analyst @ EY** from **India** | Passionate about turning raw data into strategic insights & building ML-driven solutions | Currently exploring opportunities and collaborations around the world. 
  
-<h2>📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/rambawankule/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="24" width="24" /> </a> &nbsp;&nbsp; <a href="https://x.com/rambawankule7" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/FFFFFF">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/000000">
-      <img src="https://cdn.simpleicons.org/x/000000" height="24" width="24" alt="X Profile"/>
-    </picture>
-  </a>
-  &nbsp;&nbsp; <a href="mailto:rambawankule25@gmail.com" style="text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="24" width="24" alt="Send Email"/>
-  </a>
+
+## 💼 About Me
+
+- 🎯 **Data Analyst at EY** — Turning raw data into strategic, actionable insights
+- 🤖 **ML Enthusiast** — Building & exploring AI-driven solutions with scikit-learn, TensorFlow, PyTorch
+- 🌱 **Continuous Learner** — Leveling up in Data, Automation & Prompt Engineering
+- 🤝 **Open to Collaborations** — Let’s work on impactful, innovative projects together
+- 🏆 **Mission** — Use data & AI for real-world change. Every day is Day 1!
+ 
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <!-- Data & Analytics -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> 
+  <img src="https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" />
+  
+  <!-- Machine Learning -->
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/XGBoost-FF9900?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" />
+  
+  <!-- Automation & Tools -->
+  <img src="https://img.shields.io/badge/Roboflow-111827?style=flat-square&logo=roboflow&logoColor=white" alt="Roboflow" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
 </p>
 
 ---
 
-<p>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt2NXk3cmdwd2dmanFzbHV1cmw1c3Z4bTlvYXBvNzFwd3djbnQ3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width="40" alt="Waving Robot" style="vertical-align: middle;">&nbsp; <em>I love connecting with different people! If you want to say <b>hi</b>, I'd be happy to get to know you better.</em> 😊
-</p>
+> “Data is the new oil — but only if it’s refined.”
+
+---
+
+
+
