@@ -1,6 +1,6 @@
 # Hi, I’m **Ram Bawankule**
 
-**Data Analyst @ EY** from **India** | Passionate about turning raw data into strategic insights & building ML-driven solutions | Currently exploring opportunities and collaborations around the world. 
+**Data Analyst @ EY** from **India** | Passionate about turning raw data into strategic insights & building ML-driven solutions
  
 
 ## 💼 About Me
